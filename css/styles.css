@@ -1,0 +1,37 @@
+.contenedor {
+    width: 744px;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.encabezado {
+    background-color: cadetblue;
+    position: relative;
+    height: 100px;
+}
+.Imagen {
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    left: 35px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.cuerpo {
+    padding-top: 35px;
+    padding-left: 35px;
+    border: 3px solid gray;
+    padding-bottom: 50px;
+
+}
+
+.logo {
+    width: 15px;
+    margin-right: 15px;
+}
+.cualidades {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
